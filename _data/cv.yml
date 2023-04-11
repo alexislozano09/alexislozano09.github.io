@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Alexis Lozano Marcos
     - name: Date of Birth
-      value: 14th March 1879
+      value: 8th of May 1997
     - name: Languages
-      value: English, German
+      value: English, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: NPA 6 Award
+      institution: Edinburgh College - Milton Road, Edinburgh, Scotland.
+      year: 2023
       description:
         - Description 1.
         - Description 2.

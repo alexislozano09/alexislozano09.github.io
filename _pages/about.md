@@ -2,25 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Alexis L. Marcos</p>
+    <p>Cyber Security | Networking </p>
+    <p>Edinburgh, Scotland</p>
+    <p>alexislozano552@gmail.com
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there, and welcome to my portfolio website! I'm a student with a strong interest in Cyber Security, Networking, and Digital Forensics, and I'm excited to showcase my progress on this platform.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm always looking for new challenges and ways to expand my knowledge in these areas. With each project and hands-on experience, I gain valuable insights and skills that I can apply in the real world.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My goal with this website is to share my experiences and inspire others who are interested in these fields. Whether you're a fellow student, a tech enthusiast, or just curious about Cyber Security, Networking, and Digital Forensics, I hope you find something here that interests you.
+
+Thank you for taking the time to check out my website, and I hope you enjoy following my journey!

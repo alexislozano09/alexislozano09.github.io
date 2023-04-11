@@ -117,11 +117,12 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: Calibri, sans-serif;
 
     p {
       display: inline-block;
       margin: 0;
+      text-decoration: none;
     }
   }
 }
@@ -199,7 +200,7 @@ blockquote {
 .navbar.navbar-light {
   a {
     &:hover {
-      text-decoration: none;
+      text-decoration: underline;
     }
   }
 

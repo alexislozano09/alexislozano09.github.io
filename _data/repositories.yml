@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - alexislozano09
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - alexislozano/do-not-cry
+  - alexislozano09/Pentesting-Web-Lab
+  - alexislozano09/alexislozano09.github.io
