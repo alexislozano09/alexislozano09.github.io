@@ -4,7 +4,7 @@ title:  Metaploit
 date: 2023-04-12 00:00:00
 description: What is metasploit?
 tags: cyber-security, penetration-testing, fundamentals
-inline: true
+published: true
 categories: 
 
 ---
