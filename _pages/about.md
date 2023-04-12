@@ -24,5 +24,4 @@ Welcome to my portfolio website! I'm a student with a strong interest in Cyber S
 
 I'm always looking for new challenges and ways to expand my knowledge in these areas. With each project and hands-on experience, I gain valuable insights and skills that I can apply in the real world.
 
-My goal with this website is to share my experiences and maybe inspire others who are interested in these fields. Whether you're a fellow student,or just curious about Cyber Security, I hope you find something here that interests you.
-
+My goal with this website is to share my experiences and maybe inspire others who are interested in these fields.
