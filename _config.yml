@@ -30,8 +30,8 @@ highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-them
 highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
-repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: light       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: default         # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat    # https://github.com/ryo-ma/github-profile-trophy
@@ -102,7 +102,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Got something you want to share? Feel free to drop a message at any of the platforms provided. :smile:
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -175,11 +175,11 @@ collections:
 news:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------

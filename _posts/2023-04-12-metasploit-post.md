@@ -5,12 +5,17 @@ date: 2023-04-12 00:55:34
 description: What is metasploit?
 tags: cyber-security, penetration-testing, fundamentals
 published: true
-categories: 
+categories:
 
 ---
+
+---
+
 Penetration testing is a process of assessing a system or network's security by simulating an attack from an unauthorized user. The goal of this test is to identify vulnerabilities and weaknesses that could be exploited by attackers. In this post, we will discuss how to attack a machine using different exploits and payloads on Kali Linux Metasploit.
 
 Metasploit is a penetration testing tool that allows testers to test the vulnerabilities of a system or network. It is a powerful tool that includes a wide range of exploits, payloads, and modules that can be used to identify and exploit vulnerabilities in a target system.
+
+---
 
 #### Things to remember:
 
@@ -27,6 +32,6 @@ After configuring the exploit, the next step is to select an appropriate payload
 -Once the payload is selected, the exploit can be run. If the exploit is successful, the payload will be executed on the target system, and the attacker will have unauthorized access to the target system.
 
 <blockquote>
-It's important to note that this type of testing should only be performed with the permission of the system owner and in a controlled environment to minimize the risk of damage or disruption to the target system or network. Metasploit is a powerful tool that requires skill and knowledge to use effectively, and proper training and experience are essential for anyone who wants to use it for penetration testing purposes.
+It's important to note that this type of testing should only be performed with the permission of the system owner and in a controlled environment to minimize the risk of damage or disruption. Metasploit is a powerful tool that requires skill and knowledge to use effectively, follow my posts to hack your first machine!
 
 In conclusion, attacking a machine using different exploits and payloads on Kali Linux Metasploit is a powerful way to identify and exploit vulnerabilities in a target system, but it should be done responsibly and with caution.
