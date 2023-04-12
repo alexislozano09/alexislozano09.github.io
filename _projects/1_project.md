@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Project 1
+description: Python Password Random Generator 
+img: assets/img/python_logo_background_image.png
 importance: 1
 category: work
 ---
