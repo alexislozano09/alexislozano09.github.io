@@ -4,7 +4,7 @@ title: Project 1
 description: Python Password Random Generator 
 img: assets/img/python_logo_background_image.png
 importance: 1
-category: work
+category: python
 ---
 
 Every project has a beautiful feature showcase page.
